@@ -1,0 +1,32 @@
+.detail {
+    background-color: #b2bec3;
+    margin-top: -25px;
+    padding-bottom: 50px;
+    /* align-items: center; */
+    /* text-align: center; */
+}
+
+.detail__genres {
+    list-style: none;
+    display: list-item;
+    margin-left: 20%;
+}
+
+.detail img {
+    position: relative;
+    /* max-width: 150px; */
+    /* width: 100%; */
+    max-width: 300px;
+    min-width: 250px;
+    width: 100%;
+    margin-left: 20%;
+    border-radius: 15px;
+    box-shadow: 0 30px 60px -12px rgba(50, 50, 93, 0.6), 0 18px 36px -18px rgba(0, 0, 0, 0.6), 0 -12px 36px -8px rgba(0, 0, 0, 0.06);
+}
+
+.detail h1,
+.detail h2,
+.detail h3,
+.detail h4 {
+    margin-left: 20%;
+}
